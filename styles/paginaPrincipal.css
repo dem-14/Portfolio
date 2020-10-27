@@ -1,0 +1,46 @@
+html,
+        body {
+            width: 100%;
+         height: 100%;
+        }
+ .container {
+            display: grid;            
+            grid-template-rows: 15% 48% 37%;
+            grid-template-columns: 17% 33% 50%;
+            width: 100%;
+         height: 100%;
+         background-color:#00005B;     
+         color: #ffffff;
+
+        }
+        .header {
+            grid-column: 2/4;
+font-family: algerian;
+            font-size:30px;
+            display: flex;
+justify-content: center;
+align-items: center;
+        }
+.indice {
+    grid-row: 1/4;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+        .centrado {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 95%;
+}
+.contacto {
+    display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.objetivoProfesional {
+    ;grid-column: 2/4;
+    
+}
