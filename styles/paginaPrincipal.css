@@ -21,12 +21,15 @@ font-family: algerian;
 justify-content: center;
 align-items: center;
         }
-.indice {
-    grid-row: 1/4;
-    display: flex;
-justify-content: center;
-align-items: center;
-}
+        .indice {
+            
+            grid-row: 1/4;
+            display: flex;
+        justify-content: center;
+        align-items: center;
+        }
+
+
         .centrado {
     display: block;
     margin-left: auto;
