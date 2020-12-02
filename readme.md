@@ -1,3 +1,6 @@
-comandos: firebase login
-firebase init
-firebase deploy
+carpeta imagenes >  img
+indiceComponente -> component/index.js
+
+resume
+skills
+s
