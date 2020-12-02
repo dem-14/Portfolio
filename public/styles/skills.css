@@ -42,6 +42,7 @@ background-color:YELLOW;
 color:#000000;
         }
     
-        .cuerpos {
+        ul {
             text-align: center;
+               list-style-type: none;
         }
